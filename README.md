@@ -1,6 +1,6 @@
 # RAGMON — Production-Ready PDF RAG AI Agent
 
-Aplikasi tanya-jawab dokumen PDF berbasis AI dengan arsitektur *event-driven* dan *durable execution*, dilengkapi **Chat History**, **Daftar PDF Terindeks**, dan asisten berpersona **Anime Girl (Mon-chan)**.
+Aplikasi tanya-jawab dokumen PDF berbasis AI dengan arsitektur *event-driven* dan *durable execution*, dilengkapi **Chat History**, **Daftar PDF Terindeks**, dan asisten (Mon-chan)**.
 
 ## Tech Stack
 - **Orkestrasi & Observability:** Inngest (`inngest` + `inngest-cli`)
